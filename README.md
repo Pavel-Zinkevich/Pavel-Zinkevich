@@ -21,7 +21,7 @@
 - Telegram: [@Paul0231p](https://t.me/Paul0231p)
 
 <!--
-**Pavel-Zinkevich/Pavel-Zinkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pavel-Zinkevich/Pavel-Zinkevich** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
