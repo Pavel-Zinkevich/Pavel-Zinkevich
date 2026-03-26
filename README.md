@@ -4,6 +4,8 @@
 
 🛠️ Tools & Technologies I work with:
 - Python
+- NumPy, Pandas, SciPy, Matplotlib, Seaborn, scikit-learn
+- TensorFlow, PyTorch, Keras, OpenCV
 - SQL
 - Git
 
