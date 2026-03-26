@@ -14,6 +14,20 @@
 - Find an internship or entry-level job in analytics or AI
 - Contribute to real-world projects and solve data-driven challenges
 
+🎓Education
+- 2026, THE FOUNDER – Neural Networks Developer Course
+- 2023–2024, Novgorod University – Professional Retraining in Artificial Intelligence & Big Data
+- 2023–2024, Moscow Polytechnic University – Professional Retraining in Python Programming
+- 2019–2024, Smolensk University – Bachelor’s Degree in Pedagogical Education (English & French)
+
+PET projects:
+
+📌 English Folklore Voice Bot
+
+Created a Telegram bot that serves as a digital guide to English folklore, myths, and legends. The bot answers user questions using AI embeddings and curated Wikipedia knowledge. [Project link](https://github.com/Pavel-Zinkevich/english_folklore)
+
+Tech stack: Python, Telegram API, OpenAI embeddings, Flask, HTML/CSS, Rich Media Integration
+
 🌍 Languages I speak:
 - Russian — native
 - English — C2
