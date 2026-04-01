@@ -21,7 +21,7 @@
 ---
 
 🎓 **Education:**  
-- 2025-2026 THE FOUNDER – Neural Networks Developer Course  
+- 2025-2026, THE FOUNDER – Neural Networks Developer Course  
 - 2023–2024, Novgorod University – Professional Retraining in Artificial Intelligence & Big Data  
 - 2023–2024, Moscow Polytechnic University – Professional Retraining in Python Programming  
 - 2019–2024, Smolensk University – Bachelor’s Degree in Pedagogical Education (English & French)  
