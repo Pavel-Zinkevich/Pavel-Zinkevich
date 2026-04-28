@@ -30,6 +30,16 @@
 
 ### PET projects
 
+📌 **News Parser & NLP Pipeline (Python)**
+
+Developed a Python-based application that scrapes news articles from Le Monde, extracts and processes content, and stores structured data in a SQLite database. Implemented NLP features such as translation and paraphrasing using Transformer models, along with a Telegram bot for review and publishing workflow.
+
+[Project link](https://github.com/Pavel-Zinkevich/news_parser)
+
+**Tech stack:** Python, BeautifulSoup, requests, Selenium, SQLite, Hugging Face Transformers, Telegram Bot API, asyncio
+
+---
+
 📌 **English Folklore Voice Bot**  
 Created a Telegram bot that serves as a digital guide to English folklore, myths, and legends. The bot answers user questions using AI embeddings and curated Wikipedia knowledge.  
 [Project link](https://github.com/Pavel-Zinkevich/english_folklore)  
@@ -45,6 +55,7 @@ Created an interactive Telegram bot that engages users with fun and challenging 
 **Tech stack:** Python, aiogram, SQLite, Jupyter Notebook, Telegram API  
 
 ---
+
 
 📌 **Task List (CRUD) Flutter App**  
 Created a minimal Flutter application for creating, viewing, editing, and deleting tasks (CRUD), demonstrating state management and list handling in Flutter.  
