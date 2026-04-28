@@ -40,6 +40,15 @@ Developed a Python-based application that scrapes news articles from Le Monde, e
 
 ---
 
+📌 **Vocab App (Flutter + Firebase + Offline Cache)**  
+Built a multilingual vocabulary learning app focused on French and Spanish, featuring authentication (email/password + Google Sign-In), user-specific cloud storage, and offline-first caching. Each user has isolated vocabulary data stored in Firebase Firestore, while Hive is used for local caching and offline access with background sync. The app includes flashcard training, word lookup, and progress tracking with a clean tab-based UI.  
+
+[Project link](https://github.com/Pavel-Zinkevich/vocab_app)  
+
+**Tech stack:** Flutter, Dart, Firebase Auth (Email + Google Sign-In), Cloud Firestore, Hive (local caching), StatefulWidget, StreamBuilder, PageView, BottomNavigationBar, ListView, Flashcards logic, multilingual support (French 🇫🇷 / Spanish 🇪🇸) 
+
+---
+
 📌 **English Folklore Voice Bot**  
 Created a Telegram bot that serves as a digital guide to English folklore, myths, and legends. The bot answers user questions using AI embeddings and curated Wikipedia knowledge.  
 [Project link](https://github.com/Pavel-Zinkevich/english_folklore)  
